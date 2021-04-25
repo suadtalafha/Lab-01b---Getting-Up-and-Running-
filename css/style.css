@@ -1,0 +1,88 @@
+header{
+    background-color: rgb(193, 235, 203);
+  
+     font-family: "Sofia", sans-serif;
+     text-align: center
+  }
+  body{ 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4uqMjg6KVP6FUhQIMCCafzBJmiyDKdW-9GQ&usqp=CAU.jpg");
+    background-repeat: repeat-y;
+  background-attachment: fixed;
+
+  background-position: right top;
+
+  
+  }
+  
+  img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border: solid green}
+  
+   
+   a{
+     text-decoration: none;
+     border-style: dotted solid;
+     background-color: lightgrey;
+     border-width: medium;
+     border-color:  red green blue yellow;;
+      border-radius: 5px
+     margin: 50px; 
+      
+     color: darkgreen;
+     
+   }
+  
+  nav ul li {
+    
+    border : 1px solid rgb(53, 47, 47)
+    width : 100px;
+    display : block;
+  
+  
+  }
+   
+  p{ 
+    outline-color:rgb(154, 209, 25);
+    outline-style: ridge;
+      outline-offset: 10px;
+      color: rgb(5, 54, 5);
+  
+  
+       text-align: center;
+         text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+     font-weight: bold;
+     
+  }
+   
+  img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-block-end-color: yellow
+  }
+  
+  nav ul li {
+    border : 1px solid red
+    width : 100px;
+    display : inline-block;
+  }
+  
+  
+  a:visited {
+    color: red
+    font-size:150%;
+    }
+  
+    a:hover {
+    color: hotpink;
+    text-decoration: underline;
+    color:#ffcc00;}
+  
+    a:active {
+    color: blue;
+  }
