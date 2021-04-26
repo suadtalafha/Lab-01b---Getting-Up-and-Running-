@@ -24,14 +24,13 @@ header{
    
    a{
      text-decoration: none;
-     border-style: dotted solid;
+     
      background-color: lightgrey;
-     border-width: medium;
-     border-color:  red green blue yellow;;
-      border-radius: 5px
+     
+    border: #ffcc00;
      margin: 50px; 
       
-     color: darkgreen;
+     color: hotpink;
      
    }
   
